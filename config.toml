@@ -1,0 +1,4 @@
+baseURL = "https://weddinginvitationghu.vercel.app"
+languageCode = "en-us"
+title = "Wedding Invitation Design"
+theme = "tale-hugo-master"
